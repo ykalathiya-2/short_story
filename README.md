@@ -17,12 +17,12 @@ This project focuses on advanced data mining techniques, specifically graph-base
 ### 1. Medium Article
 **Title:** "The Spiderweb Effect: Why Graph Mining is the Future of Stock Prediction"
 
-**Link:** [https://medium.com/@yashkalathiya164/the-spiderweb-effect-why-graph-mining-is-the-future-of-stock-prediction-7f1589db65eb](https://medium.com/@yashkalathiya164/the-spiderweb-effect-why-graph-mining-is-the-future-of-stock-prediction-7f1589db65eb)
+**Link:** [Article](https://medium.com/@yashkalathiya164/the-spiderweb-effect-why-graph-mining-is-the-future-of-stock-prediction-7f1589db65eb)
 
 **Description:** An in-depth article exploring how graph mining techniques transform stock market prediction by capturing hidden relationships between stocks, analyzing network structures, and leveraging Graph Neural Networks (GNNs) for enhanced forecasting accuracy.
 
 ### 2.  Presentation Slides
-**Link:** [https://did-you-know-that-over-7-iadzsoh.gamma.site/](https://did-you-know-that-over-7-iadzsoh.gamma.site/)
+**Link:** [Presentation](https://did-you-know-that-over-7-iadzsoh.gamma.site/)
 
 **Description:** Comprehensive slide deck covering:
 - Introduction to graph mining in financial markets
@@ -34,7 +34,7 @@ This project focuses on advanced data mining techniques, specifically graph-base
 ### 3. Video Presentation
 **Duration:** 10-15 minutes
 
-**Location:** [Video will be uploaded to this repository]
+**Location:** [Youtube Video](https://youtu.be/cZ7Ux4nMOTo)
 
 **Content:** Detailed walkthrough of the research topic, methodologies, key findings, and implications for stock market prediction using graph mining techniques.
 
