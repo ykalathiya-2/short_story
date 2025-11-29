@@ -62,12 +62,6 @@ This project synthesizes recent advances in graph mining and machine learning, w
 - GitHub: [@ykalathiya-2](https://github.com/ykalathiya-2)
 - Medium: [@yashkalathiya164](https://medium.com/@yashkalathiya164)
 
-## 📅 Academic Context
-
-**Course:** CMPE 255 - Data Mining  
-**Assignment Type:** Individual Short Story Project  
-**Submission Date:** 2025-11-27
-
 ## 🔗 Important Links
 
 - **Medium Article:** [The Spiderweb Effect](https://medium.com/@yashkalathiya164/the-spiderweb-effect-why-graph-mining-is-the-future-of-stock-prediction-7f1589db65eb)
