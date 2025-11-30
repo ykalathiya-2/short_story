@@ -22,7 +22,7 @@ This project focuses on advanced data mining techniques, specifically graph-base
 **Description:** An in-depth article exploring how graph mining techniques transform stock market prediction by capturing hidden relationships between stocks, analyzing network structures, and leveraging Graph Neural Networks (GNNs) for enhanced forecasting accuracy.
 
 ### 2.  Presentation Slides
-**Link:** [Presentation](https://did-you-know-that-over-7-iadzsoh.gamma.site/)
+**Link:** [Presentation]([https://did-you-know-that-over-7-iadzsoh.gamma.site/](https://www.slideshare.net/secret/4Xfp8lXs58bC9c))
 
 **Description:** Comprehensive slide deck covering:
 - Introduction to graph mining in financial markets
