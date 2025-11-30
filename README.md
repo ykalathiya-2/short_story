@@ -34,7 +34,7 @@ This project focuses on advanced data mining techniques, specifically graph-base
 ### 3. Video Presentation
 **Duration:** 10-15 minutes
 
-**Location:** [Youtube Video](https://youtu.be/cZ7Ux4nMOTo)
+**Location:** [Youtube Video](https://youtu.be/H558F6I-I7M)
 
 **Content:** Detailed walkthrough of the research topic, methodologies, key findings, and implications for stock market prediction using graph mining techniques.
 
